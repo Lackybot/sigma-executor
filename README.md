@@ -1,2 +1,3 @@
-# sigma-executor
-roblox executor
+# sigma executor
+
+owned by decompz / mochi
